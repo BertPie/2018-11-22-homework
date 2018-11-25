@@ -1,6 +1,6 @@
 import java.util.stream.Stream;
 
-public class Main {
+public class StringsCountUniqueChars {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
